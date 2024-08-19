@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyAlgorithmWinFormsApp/1.0.0": {
+        "dependencies": {
+          "MyAlgorithms": "1.0.0.0"
+        },
+        "runtime": {
+          "MyAlgorithmWinFormsApp.dll": {}
+        }
+      },
+      "MyAlgorithms/1.0.0.0": {
+        "runtime": {
+          "MyAlgorithms.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyAlgorithmWinFormsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyAlgorithms/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
