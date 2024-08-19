@@ -1,0 +1,10 @@
+C:\dev\MyAlgorithms\MyAlgorithms\bin\Release\netstandard2.1\MyAlgorithms.deps.json
+C:\dev\MyAlgorithms\MyAlgorithms\bin\Release\netstandard2.1\MyAlgorithms.dll
+C:\dev\MyAlgorithms\MyAlgorithms\bin\Release\netstandard2.1\MyAlgorithms.pdb
+C:\dev\MyAlgorithms\MyAlgorithms\obj\Release\netstandard2.1\MyAlgorithms.csproj.AssemblyReference.cache
+C:\dev\MyAlgorithms\MyAlgorithms\obj\Release\netstandard2.1\MyAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MyAlgorithms\MyAlgorithms\obj\Release\netstandard2.1\MyAlgorithms.AssemblyInfoInputs.cache
+C:\dev\MyAlgorithms\MyAlgorithms\obj\Release\netstandard2.1\MyAlgorithms.AssemblyInfo.cs
+C:\dev\MyAlgorithms\MyAlgorithms\obj\Release\netstandard2.1\MyAlgorithms.csproj.CoreCompileInputs.cache
+C:\dev\MyAlgorithms\MyAlgorithms\obj\Release\netstandard2.1\MyAlgorithms.dll
+C:\dev\MyAlgorithms\MyAlgorithms\obj\Release\netstandard2.1\MyAlgorithms.pdb

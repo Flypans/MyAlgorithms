@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Roy</Authors>
+    <Description>Algorithms</Description>
+    <PackageProjectUrl>https://github.com/Flypans/MyAlgorithms</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
