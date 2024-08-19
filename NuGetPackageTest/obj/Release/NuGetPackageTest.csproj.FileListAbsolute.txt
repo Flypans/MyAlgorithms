@@ -1,0 +1,9 @@
+C:\dev\MyAlgorithms\NuGetPackageTest\bin\Release\NuGetPackageTest.exe.config
+C:\dev\MyAlgorithms\NuGetPackageTest\bin\Release\NuGetPackageTest.exe
+C:\dev\MyAlgorithms\NuGetPackageTest\bin\Release\NuGetPackageTest.pdb
+C:\dev\MyAlgorithms\NuGetPackageTest\bin\Release\DulAlgorithm.dll
+C:\dev\MyAlgorithms\NuGetPackageTest\obj\Release\NuGetPackageTest.csproj.AssemblyReference.cache
+C:\dev\MyAlgorithms\NuGetPackageTest\obj\Release\NuGetPackageTest.csproj.CoreCompileInputs.cache
+C:\dev\MyAlgorithms\NuGetPackageTest\obj\Release\NuGetPackageTest.csproj.CopyComplete
+C:\dev\MyAlgorithms\NuGetPackageTest\obj\Release\NuGetPackageTest.exe
+C:\dev\MyAlgorithms\NuGetPackageTest\obj\Release\NuGetPackageTest.pdb

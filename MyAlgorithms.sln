@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAlgorithms.tests", "MyAlg
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{3B7102E1-B709-4A5A-9241-64801F2111ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetPackageTest", "NuGetPackageTest\NuGetPackageTest.csproj", "{043B6090-C113-4EC4-8C3F-AF9FA6C08F00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{FE6D9631-FB06-4067-AB97-1D6DDA308FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE6D9631-FB06-4067-AB97-1D6DDA308FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE6D9631-FB06-4067-AB97-1D6DDA308FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043B6090-C113-4EC4-8C3F-AF9FA6C08F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043B6090-C113-4EC4-8C3F-AF9FA6C08F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043B6090-C113-4EC4-8C3F-AF9FA6C08F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043B6090-C113-4EC4-8C3F-AF9FA6C08F00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
