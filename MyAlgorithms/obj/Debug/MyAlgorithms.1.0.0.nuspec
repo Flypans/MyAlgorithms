@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyAlgorithms</id>
+    <version>1.0.0</version>
+    <authors>MyAlgorithms</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\dev\MyAlgorithms\MyAlgorithms\bin\Debug\netstandard2.1\MyAlgorithms.dll" target="lib\netstandard2.1\MyAlgorithms.dll" />
+  </files>
+</package>
